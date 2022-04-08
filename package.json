@@ -3,10 +3,8 @@
   "private": false,
   "version": "1.0.0",
   "engines": {
-    "node": "16.14"
+    "npm": "6.x"
   }, "scripts": {
-    "start":"node src/main.js", 
-    "postinstall":"tsc" ,
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
