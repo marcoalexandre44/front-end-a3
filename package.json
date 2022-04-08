@@ -1,6 +1,6 @@
 {
   "name": "front-end-a3",
-  "private": false,
+  "private": true,
   "version": "1.0.0",
   "engines": {
     "node": "v16.13.0",
