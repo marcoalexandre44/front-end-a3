@@ -1,8 +1,10 @@
 {
-  "name": "exemplo-2-vite",
+  "name": "front-end-a3",
   "private": true,
-  "version": "0.0.0",
-  "scripts": {
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.13"
+  }, "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview"
